@@ -78,3 +78,6 @@ C:\Users\Administrator\Documents\InveonBootcamp\6.gün\Inveon.Services.ProductAP
 C:\Users\Administrator\Documents\InveonBootcamp\6.gün\Inveon.Services.ProductAPI\obj\Debug\net7.0\Inveon.Services.ProductAPI.pdb
 C:\Users\Administrator\Documents\InveonBootcamp\6.gün\Inveon.Services.ProductAPI\obj\Debug\net7.0\Inveon.Services.ProductAPI.genruntimeconfig.cache
 C:\Users\Administrator\Documents\InveonBootcamp\6.gün\Inveon.Services.ProductAPI\obj\Debug\net7.0\ref\Inveon.Services.ProductAPI.dll
+D:\Gamze\inveon\microservices\Inveon.Services.ProductAPI\obj\Debug\net7.0\Inveon.Services.ProductAPI.dll
+D:\Gamze\inveon\microservices\Inveon.Services.ProductAPI\obj\Debug\net7.0\refint\Inveon.Services.ProductAPI.dll
+D:\Gamze\inveon\microservices\Inveon.Services.ProductAPI\obj\Debug\net7.0\Inveon.Services.ProductAPI.pdb
