@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "PGmc6srGqnhbkGe8WF/jDIWPzuUGdjkhUFyiPFhAa+y8GvvAF5kR/2zt6hAQ//lI5hqQlNxfzmr7uqYRGR5ejg==",
+  "success": true,
+  "projectFilePath": "D:\\Gamze\\inveon\\Inveon.Services.OrdersAPI\\Inveon.Services.OrdersAPI.csproj",
+  "expectedPackageFiles": [
+    "D:\\Gamze\\Programs\\microsoft.aspnetcore.openapi\\7.0.14\\microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
+    "D:\\Gamze\\Programs\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "D:\\Gamze\\Programs\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "D:\\Gamze\\Programs\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "D:\\Gamze\\Programs\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "D:\\Gamze\\Programs\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "D:\\Gamze\\Programs\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
